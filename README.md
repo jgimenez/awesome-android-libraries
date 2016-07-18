@@ -114,6 +114,7 @@ Name | Repository | License
 ## Logger
 Name | Repository | License
 --- | --- | --- | ---
+[Bugfender](https://github.com/bugfender/bugfender-android-sample) | https://github.com/bugfender/bugfender-android-sample | [Commercial](https://bugfender.com/terms-of-service)
 [Hugo](https://github.com/JakeWharton/hugo) | https://github.com/JakeWharton/hugo | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 [Timber](https://github.com/JakeWharton/timber) | https://github.com/JakeWharton/timber | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)
 
